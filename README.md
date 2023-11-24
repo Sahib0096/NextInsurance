@@ -7,7 +7,7 @@
 * The name of the company is Next insurance 
 
 **2. When was the company incorporated?**
-The company was incorporated in 2016 in palo alto california (Next,2023)
+The company was incorporated in 2016 in Palo Alto California (Next,2023)
 
 **3. Who are the founders of the company?**
 The company was founded by Alon Huri, Nissim Tapiro and guy goldstein (Next,2023)
