@@ -82,8 +82,9 @@ With next insurance being completely digital I noticed the do not sell specific 
 * These technologies are appropriate because I want to see more AI and machine based technology to be apart of the underwritting process. I do believe a lot of this is being done by humans and further technology humans use weather that be blood/ urine work done by doctors to further assess certain clients health. Previously working for a big bank tele phone interviews were also a big thing being done by humans. 
 
 
-**## Refrences** 
-isk R. (2022, December 4) “Next insurance Review: everything you need to know. Rogue risk. [link]Https:// www.roguerisk.com/insights/next-insurance-review?hs_amp=true
+**##Refrences** 
+
+Risk R. (2022, December 4) “Next insurance Review: everything you need to know. Rogue risk. [link]Https:// www.roguerisk.com/insights/next-insurance-review?hs_amp=true
 Insights, C.(2023) “compare foxquilt vs next insurance.” CB insights. [link]Https://www.cbinsights.com/compare/foxquilt-vs-next-insurance
 Nextinsurance.(2023, November 9). “About us.” Next insurance. [link]Https://www.nextinsurance.com/about-us/
 Tibco.(2023) “what is insurtech?.” TIBCO software [link]https://www.tibco.com/reference-center/what-is-insurtech#:`text=Insurtech%20refers%20to%20technological%20innovations,efficiency%20the%20insurance%20industry
