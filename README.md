@@ -11,6 +11,7 @@ The company was incorporated in 2016 in palo alto california (Next,2023)
 
 **3. Who are the founders of the company?**
 The company was founded by Alon Huri, Nissim Tapiro and guy goldstein (Next,2023)
+
 **4. How did the idea for the company (or project) come about?**
 * Guy Goldstein who is the current ceo of Next insurance and Alo huri sold their previous company, Check, which was acquired by Intuit for $360 million. Next Insurance officially launched in 2017, focusing on the small business insurance market. (Next,2023) The mission aimed to build a simplified digital insurance experience which would better serve small businesses, who are a highly vital part of our economy. (Next,2023)
 1. How is the company funded? How much funding have they received?
