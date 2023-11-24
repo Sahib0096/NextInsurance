@@ -1,7 +1,7 @@
 # Insurtech: Next Insurance
 
 ## Overview and Origin
-* InsurTech can be described as the innovative use of technology in insurance and is a subset of financial technology. (NAIC,2023)  Insurance today is no different then it was several decades ago, however it has became more complex as consumers are faced with the numerous products with limited to no knowledge about them. This arises the dilemma of the huge gap insurance has in America and its citizens.
+* Insurtech can be described as the innovative use of technology in insurance and is a subset of financial technology. (NAIC,2023)  Insurance today is no different then it was several decades ago, however it has became more complex as consumers are faced with the numerous products with limited to no knowledge about them. This arises the dilemma of the huge gap insurance has in America and its citizens.
 
 **1. What is the name of the company?**
 * The name of the company is Next insurance 
